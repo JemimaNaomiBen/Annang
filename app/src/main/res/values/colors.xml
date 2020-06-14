@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4D2719</color>
+    <color name="colorPrimaryDark">#3A190F</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="annang_color">#3A190F</color>
+
+    <color name="numbers_color">#B5F4511E</color>
+
+    <color name="family_color">#D0FFB300</color>
+
+    <color name="colors_color">#D243A047</color>
+
+    <color name="tan_color">#FFF7DA</color>
+
+    <color name="meals_color">#C21E88E5</color>
+
+    <color name="phrases_color">#C85E35B1</color>
+
+    <color name="white">#FFFFFF</color>
+
+</resources>
